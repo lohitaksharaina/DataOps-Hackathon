@@ -1,0 +1,6 @@
+{
+  "name": "DataOps VAPT Agent - AI Penetration Testing Platform",
+  "description": "Conversational AI agent for automated, authorized penetration testing, cross-tool correlation, scope validation, human approval gate, and NIST SP 800-115 compliant VAPT reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
